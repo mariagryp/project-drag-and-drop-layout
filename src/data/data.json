@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "title": "Battle of Cesme at Night",
+    "artist": "Ivan Aivazovsky",
+    "released": "1848",
+    "thumb": "images/battle-of-cesme-at-night-1848.jpg",
+    "style": "Romanticism",
+    "position": 1
+  },
+  {
+    "id": 2,
+    "title": "Battle of Chios on 24 June, 1770",
+    "artist": "Ivan Aivazovsky",
+    "released": "1848",
+    "thumb": "images/battle-of-chios-on-24-june-1770-1848.jpg",
+    "style": "Romanticism",
+    "position": 2
+  },
+  {
+    "id": 3,
+    "title": "Tower. Shipwreck",
+    "artist": "Ivan Aivazovsky",
+    "released": "1847",
+    "thumb": "images/tower-shipwreck-1847.jpg",
+    "style": "Romanticism",
+    "position": 3
+  },
+  {
+    "id": 4,
+    "title": "The Bay of Naples",
+    "artist": "Ivan Aivazovsky",
+    "released": "1841",
+    "thumb": "images/1841.jpg",
+    "style": "Romanticism",
+    "position": 4
+  },
+  {
+    "id": 5,
+    "title": "Azure Grotto. Naples",
+    "artist": "Ivan Aivazovsky",
+    "released": "1841",
+    "thumb": "images/azure-1841.jpg",
+    "style": "Romanticism",
+    "position": 5
+  },
+  {
+    "id": 6,
+    "title": "Sea view with chapel",
+    "artist": "Ivan Aivazovsky",
+    "released": "1845",
+    "thumb": "images/chapel-1845-1.jpg",
+    "style": "Romanticism",
+    "position": 6
+  },
+  {
+    "id": 7,
+    "title": "The Old Feodosia",
+    "artist": "Ivan Aivazovsky",
+    "released": "1839",
+    "thumb": "images/feodosia-1839.jpg",
+    "style": "Romanticism",
+    "position": 7
+  },
+  {
+    "id": 8,
+    "title": "Moonlit Night on the Crimea. Gurzuf",
+    "artist": "Ivan Aivazovsky",
+    "released": "1839",
+    "thumb": "images/gurzuf-1839.jpg",
+    "style": "Romanticism",
+    "position": 8
+  },
+  {
+    "id": 9,
+    "title": "Kerch",
+    "artist": "Ivan Aivazovsky",
+    "released": "1839",
+    "thumb": "images/kerch-1839.jpg",
+    "style": "Romanticism",
+    "position": 9
+  },
+  {
+    "id": 10,
+    "title": "Venice",
+    "artist": "Ivan Aivazovsky",
+    "released": "1842",
+    "thumb": "images/venice-1842.jpg",
+    "style": "Romanticism",
+    "position": 10
+  },
+  {
+    "id": 11,
+    "title": "The Betrayal of Judas",
+    "artist": "Ivan Aivazovsky",
+    "released": "1834",
+    "thumb": "images/1834.jpg",
+    "Style": "Romanticism",
+    "position": 11
+  },
+  {
+    "id": 12,
+    "title": "View of the Big Cascade in Petergof and the Great Palace of Petergof",
+    "artist": "Ivan Aivazovsky",
+    "released": "1837",
+    "thumb": "images/konstantinovich-aivazovsky.jpg",
+    "style": "Romanticism",
+    "position": 12
+  },
+  {
+    "id": 13,
+    "title": "Windmill on the Sea Coast",
+    "artist": "Ivan Aivazovsky",
+    "released": "1837",
+    "thumb": "images/1837.jpg",
+    "style": "Romanticism",
+    "position": 13
+  },
+  {
+    "id": 14,
+    "title": "Frigate on a sea",
+    "artist": "Ivan Aivazovsky",
+    "released": "1838",
+    "thumb": "images/1838.jpg",
+    "style": "Romanticism",
+    "position": 14
+  }
+]
