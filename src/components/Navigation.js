@@ -43,7 +43,7 @@ const Navigation = () => {
 
   }, [sortFilter]);
 
-  console.log(sortFilter, itemlist);
+
 
   const listFilters = (
     <div className="layout-filter">

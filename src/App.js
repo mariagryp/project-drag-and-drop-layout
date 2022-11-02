@@ -1,20 +1,19 @@
 import { Route, Switch, Redirect } from "react-router-dom";
-import './App.css';
-import Layout from "./components/Layout"; 
+import "./App.css";
+import Layout from "./components/Layout";
 import Header from "./components/Header";
 
 function App() {
   return (
     <div>
       <div>
-        <Header/>
+        <Header />
       </div>
-      <Switch> 
-         <Route path='/' exact>
-          <Redirect to='/row'/>
-        </Route> 
-      <Route path="/:itemId?" exact component = {Layout}>
-      </Route>
+      <Switch>
+        <Route path="/" exact>
+          <Redirect to="/row" />
+        </Route>
+        <Route path="/:itemId?" exact component={Layout}></Route>
       </Switch>
     </div>
   );
